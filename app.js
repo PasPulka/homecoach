@@ -1,1 +1,3 @@
-This is a placeholder for app.js content.
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector('h1').style.color = 'blue';
+});
